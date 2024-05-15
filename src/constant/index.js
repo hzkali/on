@@ -301,14 +301,14 @@ const supports = [
     img: Discord,
     title: "Discord Community",
     content: "Join our lively Discord Community for crypto insights, updates, and support.",
-    href: "https://discord.com",
+    href: "#",
 
   },
   {
     img: Telegram,
     title: "Telegram Chat",
     content: "Join the chat for lively discussions. Connect with other enthusiasts.",
-    href: "https://telegram.org"
+    href: "https://t.me/harplabschat"
   },
 ];
 
@@ -337,9 +337,9 @@ const footerLinks = [
     type: "icon",
     title: "RESOURCES",
     links: [
-      { href: "https://www.google.com", label: "Whitepaper" },
-      { href: "https://www.google.com", label: "Developer Portal" },
-      { href: "https://www.google.com", label: "Harplabs Foundation" }
+      { href: "https://harplabspay.gitbook.io/harplabspay-token", label: "Whitepaper" },
+      { href: "https://www.harplabs.co.uk", label: "Developer Portal" },
+      { href: "https://www.harplabs.co.uk", label: "Harplabs Foundation" }
     ]
   },
   {
@@ -347,8 +347,8 @@ const footerLinks = [
     title: "SUPPORT",
     links: [
       { href: "mailto:jeniahadam@gmail.com?subject=Hello!", label: "General Support" },
-      { href: "https://discord.com", label: "Discord Community" },
-      { href: "https://telegram.org", label: "Telegram Chat" }
+      { href: "#", label: "Discord Community" },
+      { href: "t.me/harplabschat", label: "Telegram Chat" }
     ]
   },
 ];
