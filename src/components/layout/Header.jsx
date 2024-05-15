@@ -65,7 +65,7 @@ const Header = () => {
                 <a href="#support">Support</a>
               </Button>
               <Button className="py-[11px] px-[15px] max-h-[55px] h-auto">
-                <a href="#downoald">Downoald</a>
+                <a href="#downoald">Download</a>
               </Button>
             </div>
           </div>
