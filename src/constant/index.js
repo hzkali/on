@@ -348,7 +348,7 @@ const footerLinks = [
     links: [
       { href: "mailto:jeniahadam@gmail.com?subject=Hello!", label: "General Support" },
       { href: "#", label: "Discord Community" },
-      { href: "t.me/harplabschat", label: "Telegram Chat" }
+      { href: "https://www.t.me/harplabschat", label: "Telegram Chat" }
     ]
   },
 ];
